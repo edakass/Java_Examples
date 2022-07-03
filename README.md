@@ -11,3 +11,5 @@
 - Socket programlama
 
 - File IO(input/output)
+
+- Transaction yönetimi
