@@ -27,19 +27,6 @@ public class Sinifi_Gecme {
         System.out.print("Muzik notunuzu giriniz : ");
         muzik=sc.nextInt();
 
-
-        if (matematik<0 || matematik>100){
-            matematik=0;
-
-        } else if ((fizik < 0 || fizik > 100)) {
-            fizik=0;
-        } else if ((turkce<0 || turkce>100)) {
-            turkce=0;
-        } else if ((kimya<0 || kimya>100)) {
-            kimya=0;
-        } else if ((muzik<0 || muzik>100)) {
-            muzik=0;
-        }
         average=(matematik+fizik+turkce+kimya+muzik)/5;
 
         if(average<55){
