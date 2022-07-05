@@ -38,4 +38,10 @@ Dünyada en popüler Client uygulamasıdır
 Serviste yazdığımız CRUD işlemlerini test etmeye yarar.
 
 
+@SpringBootApplication ==> projemizin çalıştırılacak olan classtır
+
+@EnableAutoConfiguration ==>
+
+@ComponentScan ==> projedeki tüm komponentleri taramak ve repository,service,controller hazır hale gelmesini sağlar.
+
 https://app.patika.dev/courses/java-spring-boot/spring-boot-nedir
