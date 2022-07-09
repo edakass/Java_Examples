@@ -3,40 +3,51 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
+    static boolean isPalindrom(int number){
+        int temp=number,reverseNumber=0,lastNumber;
+        while (temp!=0){
+            lastNumber=temp%10;
+            reverseNumber=(reverseNumber*10)+lastNumber;
+            temp/=10;
+        }
+        if(number==reverseNumber){
+            System.out.println("Your number is "+number +" Palindrom ");
+            return true;
+        }else{
+            System.out.println("Your number is "+number+" Not Palindrom");
+            return  false;
+        }
+      /*  while (temp!=0){
+            System.out.println("*******************");
+            System.out.println("Number : "+temp);
+            lastNumber=temp%10;
+            System.out.println("Last Number : "+lastNumber);
+            reverseNumber=(reverseNumber*10)+lastNumber;
+            System.out.println("New Number : "+reverseNumber);
+            temp /=10;
+            System.out.println("New temp : "+temp);
+
+        }*/
+        /*
+        if(number==reverseNumber)
+           return true;
+        else
+           return false;
+            return true;
+         */
+
+    }
 
     public static void main(String[] args) {
-	    //Değişkenleri oluştur
-        int mat,muzik,turkce,fizik,kimya,tarih;
-
-        //Scanner sınıfımız tanımlandı
         Scanner sc=new Scanner(System.in);
+        System.out.println("Please enter a number : ");
+        int num=sc.nextInt();
+        isPalindrom(num);
+        //isPalindorm(247);
+        // 7 * 10= 70 + 4 =74
+        //74 * 10 = 740 + 2 =742
+        //isPalindrom(247);
+        //System.out.println(isPalindrom(247););
 
-        //Kullanıcıdan değerleri alacağımız kısım
-        System.out.println("Matematik notunuzu giriniz : ");
-        mat=sc.nextInt();
-
-        System.out.println("Muzik notunuzu girniniz : ");
-        muzik=sc.nextInt();
-
-        System.out.println("Turkce notunuzu giriniz : ");
-        turkce=sc.nextInt();
-
-        System.out.println("Fizik notunuzu giriniz : ");
-        fizik=sc.nextInt();
-
-        System.out.println("Kimya notunuzu giriniz : ");
-        kimya=sc.nextInt();
-
-        System.out.println("Tarih notunuzu giriniz : ");
-        tarih=sc.nextInt();
-
-        //Ortalama için
-        int toplam =(mat + muzik + turkce + fizik + kimya + tarih);
-        double sonuc=toplam / 6.0;
-        System.out.println("Ortalama : "+sonuc);
-
-        //Kaldi veya geçme durumu
-        String string=(sonuc >= 60) ? "Tebrikler !! Sınıfı Gectiniz." : "Kaldiniz. Calismayi Birakmayiniz ...";
-        System.out.println(string);
     }
 }
