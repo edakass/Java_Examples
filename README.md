@@ -2,6 +2,9 @@
 
 ### JAVA NOTLAR
 
+
+Sınıflar birbirlerinin nitelikleri olabilirler.
+
 Çalışmam gerekenler :
 
 - yazılım prensipleri nelerdir
