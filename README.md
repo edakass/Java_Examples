@@ -48,3 +48,9 @@ Serviste yazdığımız CRUD işlemlerini test etmeye yarar.
 @ComponentScan ==> projedeki tüm komponentleri taramak ve repository,service,controller hazır hale gelmesini sağlar.
 
 https://app.patika.dev/courses/java-spring-boot/spring-boot-nedir
+
+
+
+Sorular 
+
+-buble sort,buffered,trim,unit test
