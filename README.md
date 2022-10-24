@@ -3,6 +3,36 @@
 ### JAVA NOTLAR
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+
 Sınıflar birbirlerinin nitelikleri olabilirler.
 
 Çalışmam gerekenler :
