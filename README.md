@@ -2,6 +2,7 @@
 
 ### JAVA NOTLAR
 
+'''
 
 public static void main(String[] args) {
         ArrayList list = new ArrayList();
@@ -10,6 +11,8 @@ public static void main(String[] args) {
         list.add("5");
         System.out.println(list);
     }
+  
+'''
     
 Output : [5, 5, 5]
 
