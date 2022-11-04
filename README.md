@@ -17,6 +17,7 @@ Son commit işleminizi yeniden yapmak için kullanılır.
 
 Stash pop ile Stash apply arasındaki farklar nelerdir?
 git stash pop, üst stashed öğesini uygular ve yığından kaldırır. git stash apply da aynısını yapar, ancak bunu yığın yığınında bırakır.
+
 -----------------------------------------------------------------
 
 Sınıflar birbirlerinin nitelikleri olabilirler.
