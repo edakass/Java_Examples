@@ -7,6 +7,10 @@ www.patika.dev
 
 ------------------------------------------------------------------------------
 
+İleri seviye git ' teki stash kavramını araştırmalısın
+
+-----------------------------------------------------------------
+
 Sınıflar birbirlerinin nitelikleri olabilirler.
 
 Çalışmam gerekenler :
