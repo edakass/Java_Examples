@@ -9,6 +9,14 @@ www.patika.dev
 
 İleri seviye git ' teki stash kavramını araştırmalısın
 
+Commit Nedir?
+Git'e eklediğimiz dosyaları kalıcı olarak Git veri tabanına işlemye denir.
+
+amend komutu ne işe yarar?
+Son commit işleminizi yeniden yapmak için kullanılır.
+
+Stash pop ile Stash apply arasındaki farklar nelerdir?
+git stash pop, üst stashed öğesini uygular ve yığından kaldırır. git stash apply da aynısını yapar, ancak bunu yığın yığınında bırakır.
 -----------------------------------------------------------------
 
 Sınıflar birbirlerinin nitelikleri olabilirler.
