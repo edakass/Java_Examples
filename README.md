@@ -79,3 +79,4 @@ Sorular
 ![image](https://user-images.githubusercontent.com/61595808/200034300-ea700c7e-6eb1-4dc4-a89c-54d9955a72b5.png)
 
 
+char ile ilgili örnekler https://merttopuz.com/yazilim/java/java-char
