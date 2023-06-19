@@ -2,6 +2,15 @@
 
 ### JAVA NOTLAR
 
+- Singleton |
+  
+  https://stackoverflow.com/questions/3312611/pipe-operator-in-java
+  
+  https://stackoverflow.com/questions/32444498/why-is-the-bitwise-or-operator-used-when-catching-multiple-exceptions-in-j
+
+
+
+
 www.patika.dev 
 
 
