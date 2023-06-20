@@ -24,6 +24,8 @@ Java'da soyutlama (Abstraction), nesne yönelimli programlamanın yapı taşlar�
 
 İleri seviye git ' teki stash kavramını araştırmalısın
 
+https://www.kodkampusu.com/javada-soyutlama-abstraction/
+
 ### Commit Nedir?
 
 Git'e eklediğimiz dosyaları kalıcı olarak Git veri tabanına işlemye denir.
