@@ -22,6 +22,8 @@ Sınıflarda sadece public kullnaılabılıyor. Protected ve private kullanılam
 
 ### Nesne Yönelimli Programlamanın 4 Temel İlkesi ve Interface
 - Encapsulatıon (Kapsülleme)
+Sarmalama ilkesi, bir sınıfa ait değişkenlerin veya niteliklerin ancak o sınıfa ait metotlar tarafından değiştirilebilmesi ve okunabilmesi ilkesidir. Bu ilke sayesinde nesnelerde oluşacak anlamsızlıkların önüne geçilebilir.
+
 - Inheritance (Kalıtım)
 - Polimorphism (Çok Biçimlilik)
 - Abstraction (Soyutlama)
