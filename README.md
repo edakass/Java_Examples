@@ -9,6 +9,10 @@
 - Static, nesnelerden değilde sınıflardan ulaşılmak isteniyor
 - https://academy.patika.dev/courses/java-102/static (tekrar çalış)
 -  Javada eğer bir sabit tanımlanıyorsa buyuk harfle tanımlanır
+-  Main metodu için hangi erişim belirleyici kullanılmalıdır ? --> public
+- Statik metotlar yalnızca diğer statik metotlar tarafından çağrılır.
+- Statik metotlar yalnızca statik değişkenlere erişebilir.
+- Statik metotlar this anahtar sözcüğünü kullanmaz.
 
 **public final double  PI_SAYISI = 3.14;**
 
