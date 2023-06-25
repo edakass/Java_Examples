@@ -2,6 +2,12 @@
 
 ### JAVA NOTLAR
 
+## JAVA - 102 NOTES
+
+- Statik değişkenler ve statik metodlar objelere ait değişken ve metod olmaktan çıkıp sınıflara ait değişkenler ve metodlar oluyorlar ve sınıftan bir nesne üretilmeden program çalışır çalışmaz statik metodlar ve statik değişkenler program tarafından hafızaya alınıyor,hafızada yer kaplamış oluyorlar. O yüzden herhangi bir obje üzerinden çağrılmıyorlar , çağrıldığında da bir hata olmuyor ama kullanımı yanlıştır.
+- 
+
+
 - Singleton |
   
   https://stackoverflow.com/questions/3312611/pipe-operator-in-java
