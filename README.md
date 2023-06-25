@@ -8,6 +8,9 @@
 - Eğer sınıfa ait metotlardan bir yada birden fazlasının önüne "static" deyimi yazılırsa, o metotlar sınıf metodu olurlar. Sınıf metotlarının en önemli özelliği, ilgili sınıfa ait nesne oluşturmadan sınıf metodu çağırılabilir. Bir sınıf değişkeninin, henüz nesne oluşturulmasa da bellekte fiziksel olarak yer kaplar
 - Static, nesnelerden değilde sınıflardan ulaşılmak isteniyor
 - https://academy.patika.dev/courses/java-102/static (tekrar çalış)
+-  Javada eğer bir sabit tanımlanıyorsa buyuk harfle tanımlanır
+
+**public final double  PI_SAYISI = 3.14;**
 
 
 - Access Modifiers
