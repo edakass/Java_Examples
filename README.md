@@ -46,6 +46,15 @@ https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
 
 Encapsulation (Kapsülleme) : Sınıfa ait niteliklerin anlamsızlaşmasını engelleyen bir yoldur.
 
+Kapsülleme kullanılarak Abstraction özelliği kullanılabilir.
+
+Metodlarda Geçersiz Kılma (Method Overriding) : Üst sınıfındaki bir metot ile aynı isime ve parametrelere sahip olan alt sınıf metotlara denir.
+
+Çok Biçimlilik(Polymorphism)
+- Nese Yönelimli Programlama ilkesidir.
+- Programın okunabilirliğini kolaylaştırır.
+- Bir sınıfa ait miras alınan davranışın yeniden tanımlanmasını sağlar.
+
 ---------------------
 - Singleton |
   
