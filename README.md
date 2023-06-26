@@ -35,7 +35,7 @@ Buna örnek olarak da kitap lı örnek akla gelebilir,kitap sayısı negatif ola
 - Sınıflar arası oluşturulabilecek 3 temel ilişki vardır ;
 - Bağımlılık (Dependency) , (uses a , student ve course ornegı mesela mat dersının ortalamasını hesaplandı https://academy.patika.dev/courses/java-102/sinif-iliskiler )
 - Birleştirme (composition) , (has a, araba nın olması ıcın motor ve tekerlek sınıfına ıhtıyacı var)
-- Kalıtım (inheritance)
+- Kalıtım (inheritance) , (is a)
 
 
 
