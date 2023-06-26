@@ -43,6 +43,9 @@ Buna örnek olarak da kitap lı örnek akla gelebilir,kitap sayısı negatif ola
 
 https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
 
+
+Encapsulation (Kapsülleme) : Sınıfa ait niteliklerin anlamsızlaşmasını engelleyen bir yoldur.
+
 ---------------------
 - Singleton |
   
