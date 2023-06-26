@@ -32,6 +32,9 @@ Buna örnek olarak da kitap lı örnek akla gelebilir,kitap sayısı negatif ola
 - Abstraction (Soyutlama)
 
 
+- Sınıflar arası oluşturulabilecek 3 temel ilişki vardır ; Bağımlılık (Dependency) , Birleştirme (composition) , Kalıtım (inheritance)
+
+
 - Singleton |
   
   https://stackoverflow.com/questions/3312611/pipe-operator-in-java
