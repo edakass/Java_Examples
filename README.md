@@ -55,6 +55,9 @@ Metodlarda Geçersiz Kılma (Method Overriding) : Üst sınıfındaki bir metot 
 - Programın okunabilirliğini kolaylaştırır.
 - Bir sınıfa ait miras alınan davranışın yeniden tanımlanmasını sağlar.
 
+
+Çok Biçimliliğin kullanılmasının en büyük nedeni nedir ?
+- Program daha şık tasarıma sahip olacak ve bakımı ve güncellenmesi daha kolay olacaktır.
 ---------------------
 - Singleton |
   
