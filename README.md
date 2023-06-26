@@ -41,7 +41,7 @@ Buna örnek olarak da kitap lı örnek akla gelebilir,kitap sayısı negatif ola
       - super() ı sadece constructorlar ıle kullanıyoruz
 
 
-
+https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html
 
 ---------------------
 - Singleton |
