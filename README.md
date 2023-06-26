@@ -58,6 +58,11 @@ Metodlarda Geçersiz Kılma (Method Overriding) : Üst sınıfındaki bir metot 
 
 Çok Biçimliliğin kullanılmasının en büyük nedeni nedir ?
 - Program daha şık tasarıma sahip olacak ve bakımı ve güncellenmesi daha kolay olacaktır.
+
+
+Public Erişim Belirleyicisi interface için kullanılır.
+
+
 ---------------------
 - Singleton |
   
