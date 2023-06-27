@@ -63,6 +63,8 @@ Metodlarda Geçersiz Kılma (Method Overriding) : Üst sınıfındaki bir metot 
 Public Erişim Belirleyicisi interface için kullanılır.
 
 
+### Nested Sınıflar, Generic Yapılar
+
 ---------------------
 - Singleton |
   
