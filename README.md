@@ -65,6 +65,10 @@ Public Erişim Belirleyicisi interface için kullanılır.
 
 ### Nested Sınıflar, Generic Yapılar
 
+- Wrapper sınıflar sayesinde, ilkel veri tiplerini (int,byte,sort vs.) nesne (object) olarak kullanmamızı sağlayan sınıflardır.
+
+
+
 ---------------------
 - Singleton |
   
