@@ -82,6 +82,8 @@ Public Erişim Belirleyicisi interface için kullanılır.
 
 ## Collection ve Map Interface
 
+- Iterator , listeleri gezmemizi sağlıyor
+
 
 
 
