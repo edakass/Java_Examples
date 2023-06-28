@@ -70,6 +70,8 @@ Public Erişim Belirleyicisi interface için kullanılır.
 ## Exception Handling (Hata Yakalama)
 
 - bir hata oluştuğu zaman programın çalışması sona erer.
+- Java'da Exception'lar birer sınıftır.
+- https://academy.patika.dev/courses/java-102/exception
 
 
 
