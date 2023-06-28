@@ -69,7 +69,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 
 ## Exception Handling (Hata Yakalama)
 
-- 
+- bir hata oluştuğu zaman programın çalışması sona erer.
 
 
 
