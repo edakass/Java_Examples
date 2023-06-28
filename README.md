@@ -75,6 +75,12 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - Error : Programdaki ciddi hatalı temsil eder. JVM tarafından iletilen uygulama dışında oluşan hatalardır. Bu tip hatalar da "Unchecked Exceptions" tipindedir. Örneğin veritabanı sunucusuna bağlanmaya çalışınca bağlantı hatası verirse bunu ancak çalışma zamanında anlayabiliriz.
 - Exception : Kullanıcı tanımlı Exception sınıfları dahil olmak üzere tüm Exception alt sınıflarının ATA sınıfıdır. "RuntimeException" dışındaki tüm Exception hataları "Checked Exceptions" tipindedir. Bu hata tipleri daha derleme aşamasında belirtilir. Bu hatalara göz önününde bulundurarak bir kod yazmamızı bizden bekler.
 
+- Error : yakalanamayan tüm istisnaları yakalayabilir
+- Exception : istisnaları tanımlamak için kullanılır
+- anahtar kelimelerden hangisi istisna işlemenin bir parçası değildir - try
+  parcası olanlar (finally, throw, catch)
+
+
 
 
 
