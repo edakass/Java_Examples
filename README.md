@@ -72,6 +72,10 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - bir hata oluştuğu zaman programın çalışması sona erer.
 - Java'da Exception'lar birer sınıftır.
 - https://academy.patika.dev/courses/java-102/exception
+- Error : Programdaki ciddi hatalı temsil eder. JVM tarafından iletilen uygulama dışında oluşan hatalardır. Bu tip hatalar da "Unchecked Exceptions" tipindedir. Örneğin veritabanı sunucusuna bağlanmaya çalışınca bağlantı hatası verirse bunu ancak çalışma zamanında anlayabiliriz.
+- Exception : Kullanıcı tanımlı Exception sınıfları dahil olmak üzere tüm Exception alt sınıflarının ATA sınıfıdır. "RuntimeException" dışındaki tüm Exception hataları "Checked Exceptions" tipindedir. Bu hata tipleri daha derleme aşamasında belirtilir. Bu hatalara göz önününde bulundurarak bir kod yazmamızı bizden bekler.
+
+
 
 
 
