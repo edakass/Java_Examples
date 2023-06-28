@@ -80,6 +80,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - anahtar kelimelerden hangisi istisna işlemenin bir parçası değildir - try
   parcası olanlar (finally, throw, catch)
 
+## Collection ve Map Interface
 
 
 
