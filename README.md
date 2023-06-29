@@ -93,6 +93,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - ArrayList Sınıfı : Default boyutu 10’dur.
 - ArrayList sınıfı thread-safe değildir. Bir ArrayList’e aynı anda birden fazla thread erişebilir. Bu durum veri bütünlüğünü bozar.
 - Vector eskiden kalmış yapılar
+- Queue LinkedList de get ıle cagrımayıruz.
 
 
 
