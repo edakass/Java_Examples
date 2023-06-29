@@ -87,7 +87,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - HashSet : hashsetlerin gelen veri ile çıkan verinin sırasının farklı oluyor.
 - LinkedSet : giren sıra ile çıkan sıra aynı oluyor.
 - Hashlerde arka planda çalışan bir algoritma var ona göre çalışıyor
-- List interface (Arayüzü)
+- List interface (Arayüzü) : Veriler, geliş sırasına göre (ordered) tutulur.
 
 
 
