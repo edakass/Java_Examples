@@ -88,6 +88,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - LinkedSet : giren sıra ile çıkan sıra aynı oluyor.
 - Hashlerde arka planda çalışan bir algoritma var ona göre çalışıyor
 - List interface (Arayüzü) : Veriler, geliş sırasına göre (ordered) tutulur.
+- List'lerin her elemanı bellekte kendine özgü bir alan tutar. List üzerinde veri ekleme ve bu verilere erişme indis(index) denilen integer sayılar üzerinden yapılır. Başlangıç indisi sıfırdır.
 
 
 
