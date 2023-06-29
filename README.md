@@ -84,7 +84,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 
 - Iterator , listeleri gezmemizi sağlıyor
 
-
+- HashSet : hashsetlerin gelen veri ile çıkan verinin sırasının farklı oluyor.
 
 
 
