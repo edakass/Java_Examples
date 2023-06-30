@@ -114,6 +114,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - Dinamik bir dizi oluşturmak için ArrayList & Vector kullanılabilir.
 - Map içinde belirtilen anahtara sahip bir elemanı elde etmek için Map sınıfı get() metotu kullanılır.
 - Hashmap sınıfı sıralı bir koleksiyon değildir.
+  
 - TreeMap sınıfı ile ilgili
   
       - Map interface den kalıtım almıştır.
