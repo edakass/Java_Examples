@@ -68,6 +68,7 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - Wrapper sınıflar sayesinde, ilkel veri tiplerini (int,byte,sort vs.) nesne (object) olarak kullanmamızı sağlayan sınıflardır.
 - Nested sınıflar 2 ana kategoriye ayrılır .
 - Wrapper sınıfların kullanım amacı "İlkel veri tiplerinin nesne gibi davranmasını sağlamak."
+- Autoboxing ve Unboxing kavramlarının amacı “İlkel veri tiplerinin Sarmalıyıcı(Wrapper) sınıfları arasındaki dönüşümleri otomatik yapan yapıdır.
 
 ## Exception Handling (Hata Yakalama)
 
