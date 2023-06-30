@@ -63,7 +63,7 @@ Metodlarda Geçersiz Kılma (Method Overriding) : Üst sınıfındaki bir metot 
 Public Erişim Belirleyicisi interface için kullanılır.
 
 
-### Nested Sınıflar, Generic Yapılar
+### Nested Sınıflar, Generic Yapılar <T>
 
 - Wrapper sınıflar sayesinde, ilkel veri tiplerini (int,byte,sort vs.) nesne (object) olarak kullanmamızı sağlayan sınıflardır.
 - Nested sınıflar 2 ana kategoriye ayrılır .
@@ -77,6 +77,8 @@ Public Erişim Belirleyicisi interface için kullanılır.
      - Programdaki denetlenmemiş uyarıları önler.
        
      - Bir nesne oluştururken jeneriklerin kullanımını basitleştirir.
+
+  - Generic , bir method ya da bir classın, yazılımcının türden bağımsız olarak oluşturduğu, kullanıldığı yere göre türlerinin belirlenip bu tür üzerinden işlem yapılmasını sağlayan yapılardır. En yaygın örneği ArrayList<>'tir.
 
 ## Exception Handling (Hata Yakalama)
 
