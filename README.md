@@ -70,6 +70,10 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - Wrapper sınıfların kullanım amacı "İlkel veri tiplerinin nesne gibi davranmasını sağlamak."
 - Autoboxing ve Unboxing kavramlarının amacı “İlkel veri tiplerinin Sarmalıyıcı(Wrapper) sınıfları arasındaki dönüşümleri otomatik yapan yapıdır.
 - Jenerikler Tip güvenliği sağlar ve Kod tekrarının önüne geçer.
+- Diamond operatörünün sağladığı avantajlar
+     - Java derleyicisinin jenerik türü otomatik olarak tespit etmesini sağlar.
+     - Programdaki denetlenmemiş uyarıları önler.
+     - Bir nesne oluştururken jeneriklerin kullanımını basitleştirir.
 
 ## Exception Handling (Hata Yakalama)
 
