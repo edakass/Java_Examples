@@ -108,6 +108,19 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - Vector eskiden kalmış yapılar
 - Queue LinkedList de get ıle cagrımayıruz.
 - Map ve Collectionlar farklı
+- Collection sınıflarından ArrayList dinamik bir dizi tanımlar.
+- ArrayList nesnesinin kapasitesini manuel olarak artırmak için  metotlardan ensureCapacity() kullanılabilir.
+- Bir ArrayList nesnesinden statik bir dizi elde etmek için toArray() metotlardan kullanılabilir.
+- Dinamik bir dizi oluşturmak için ArrayList & Vector kullanılabilir.
+- Map içinde belirtilen anahtara sahip bir elemanı elde etmek için Map sınıfı get() metotu kullanılır.
+- Hashmap sınıfı sıralı bir koleksiyon değildir.
+- TreeMap sınıfı ile ilgili
+  
+      - Map interface den kalıtım almıştır.
+  
+      - Veri kümesine konulan elemanların verdiğiniz kurama göre sıralanmasını sağlar.
+  
+      - Verileri anahtar değer ilişkisine göre depolar. 
 
 
 ---------------------
