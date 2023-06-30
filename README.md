@@ -96,7 +96,8 @@ Public Erişim Belirleyicisi interface için kullanılır.
 - Queue LinkedList de get ıle cagrımayıruz.
 - Map ve Collectionlar farklı
 
-
+- Nested sınıflar 2 ana kategoriye ayrılır .
+- Wrapper sınıfların kullanım amacı "İlkel veri tiplerinin nesne gibi davranmasını sağlamak."
 
 ---------------------
 - Singleton |
