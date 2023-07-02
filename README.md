@@ -220,3 +220,6 @@ Sorular
 
 
 char ile ilgili örnekler https://merttopuz.com/yazilim/java/java-char
+
+
+- kaç kere döndüğünü bildiğimiz dögülerde for döngüsünü kullanıyoruz, bilmediğimiz döngülerde ise while döngüsünü kullanıyoruz.
