@@ -223,3 +223,12 @@ char ile ilgili örnekler https://merttopuz.com/yazilim/java/java-char
 
 
 - kaç kere döndüğünü bildiğimiz dögülerde for döngüsünü kullanıyoruz, bilmediğimiz döngülerde ise while döngüsünü kullanıyoruz.
+
+Links :
+
+- https://www.javatpoint.com/how-to-improve-coding-skills-in-java
+- spring : https://www.baeldung.com/
+- https://www.geeksforgeeks.org/java/
+- https://download.java.net/java/early_access/valhalla/docs/api/java.base/java/io/InputStream.html
+
+- tr resources https://academy.patika.dev/tr/paths
