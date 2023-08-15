@@ -124,6 +124,26 @@ Public Erişim Belirleyicisi interface için kullanılır.
       - Verileri anahtar değer ilişkisine göre depolar. 
 
 
+### FileOutputStream Sınıfı
+
+- Almak istedigimiz verileri input streamler ile aliyorduk ve bir dosya icersinden almak istiyorsak byte byte file input streamler kullaniyorduk.
+- Programimiza bir cikti vermek istiyorsak bunlarida bir dosyaya byte byte aktarmak istiyorsak buralarda file input streamler kullaniliyor.
+
+
+### ByteArrayInputStream ve ByteArrayOutputStream Sınıfları
+- guvenlik konularinda kullaniliyor , encyrption vs
+- daha cok sifrelemede kullaniliyor
+- Java.io paketinin ByteArrayInputStream sınıfı, bir dizi girdi verisini (bayt cinsinden) okumak için kullanılabilir.
+- ByteArrayInputStream'de, girdi akışı bayt dizisi kullanılarak oluşturulur. Bu bayt dizisinin verilerini depolamak için dahili bir dizi içerir.
+- Bir bayt dizisi giriş akışı oluşturmak için, önce java.io.ByteArrayInputStream paketini içe aktarmalıyız.
+
+ByteArrayOutputStream
+- Java.io paketinin ByteArrayOutputStream sınıfı, bir dizi çıktı verisini (bayt cinsinden) yazmak için kullanılabilir.
+- OutputStream soyut sınıfını genişletir.
+
+
+
+ByteArrayOutputStream'de, verileri depolamak için dahili bir bayt dizisi bulunur.
 ---------------------
 - Singleton |
   
