@@ -146,6 +146,8 @@ ByteArrayOutputStream'de, verileri depolamak için dahili bir bayt dizisi bulunu
 
 ### Serialization ve ObjectStream Sınıfları
 - Streamler bırbırlerı uzerlerıne ıslem yapabılıyorlar.
+- Nesneleri serileştirmek için Java platformu 2 temel sınıf sunar. ObjectInputStream ve ObjectOutputStream adı verilen bu iki sınıf ile, Serializable interfaceini uygulayan herhangi bir sınıfı serileştirebiliriz. Bu iki sınıfdan ilki olan ObjectInputStream, ObjectInput interfaceini uygular ve serileştrilen nesneyi tekrar akışdan okumak için kullanılır. ObjectInputStream adındaki diğer sınıf, ObjectOutput interfaceini uygular ve herhangi bir nesneyi akışa yazdırmak için kullanılır.
+
 
 
 ---------------------
