@@ -142,8 +142,12 @@ ByteArrayOutputStream
 - OutputStream soyut sınıfını genişletir.
 
 
-
 ByteArrayOutputStream'de, verileri depolamak için dahili bir bayt dizisi bulunur.
+
+### Serialization ve ObjectStream Sınıfları
+- Streamler bırbırlerı uzerlerıne ıslem yapabılıyorlar.
+
+
 ---------------------
 - Singleton |
   
