@@ -261,5 +261,11 @@ Links :
 
 - tr resources https://academy.patika.dev/tr/paths
 
+reflection
+vogella
+reflection private olan tanimlamadan erisme
+yani bii classtan diger klassa erisme
+
+
 Intellij shortcuts : https://www.youtube.com/watch?v=QYO5_riePOQ&t=294s
 cmd shift n yeni bir dosya türü açmak ıcın kullanılıyor mesela json ıcın felan bır dosyayı acmak ıcın
