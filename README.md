@@ -260,3 +260,5 @@ Links :
 - https://download.java.net/java/early_access/valhalla/docs/api/java.base/java/io/InputStream.html
 
 - tr resources https://academy.patika.dev/tr/paths
+
+Intellij shortcuts : https://www.youtube.com/watch?v=QYO5_riePOQ&t=294s
