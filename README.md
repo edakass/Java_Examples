@@ -269,3 +269,5 @@ yani bii classtan diger klassa erisme
 
 Intellij shortcuts : https://www.youtube.com/watch?v=QYO5_riePOQ&t=294s
 cmd shift n yeni bir dosya türü açmak ıcın kullanılıyor mesela json ıcın felan bır dosyayı acmak ıcın
+https://stackoverflow.com/questions/38144396/intellij-comment-shortcut-opens-help-tab-on-the-mac-menu-bar
+
