@@ -1,0 +1,6 @@
+IOC - Inversion of Control
+- Kontrolü tersine çevir
+- IOC = D.I ESIT DEGILDIR
+ioc tersine cevirmek için , dependency injection ise üretileni tüketmek için kullanılır
+Spring Framework ün core yapısında ioc ile beraber çalışıyor.
+- Spring Framework bizim yerimize ioc u kuracak 
