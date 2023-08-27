@@ -4,3 +4,5 @@ IOC - Inversion of Control
 ioc tersine cevirmek için , dependency injection ise üretileni tüketmek için kullanılır
 Spring Framework ün core yapısında ioc ile beraber çalışıyor.
 - Spring Framework bizim yerimize ioc u kuracak 
+- Mesela x y z m gibi birbirlerine baglı sıkı skıya baglı classlar dusun , z gidince baglar kopmus olacak,bunun onlemını almamız lazım.
+loose couplıng denılen yapıyı kullnamamız lazım.gevsek baglılık,spring frameworkun ıcındekı ıoc bunu bıze saglıyor.
